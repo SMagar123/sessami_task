@@ -1,7 +1,11 @@
 import "./App.css";
-
+import { CityDetails } from "./pages";
 function App() {
-  return <></>;
+  return (
+    <>
+      <CityDetails />
+    </>
+  );
 }
 
 export default App;
